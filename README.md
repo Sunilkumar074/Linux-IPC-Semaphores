@@ -115,11 +115,11 @@ if(NUM_LOOPS>=10)    {
 ## OUTPUT
 $ ./sem.o
 
-![322712711-93491f07-6e92-4bd4-9273-908d89f07ec0](https://github.com/04Varsha/Linux-IPC-Semaphores/assets/149035374/d39c2d90-86da-438a-98cf-87f5dbe2511b)
+![image](https://github.com/Sunilkumar074/Linux-IPC-Semaphores/assets/152241049/0a0150ec-0887-4fd2-8793-82ee0ab1080e)
 
 $ ipcs
 
-![322712733-429e1706-6215-4308-9b25-4655af2bac2a](https://github.com/04Varsha/Linux-IPC-Semaphores/assets/149035374/b23ee845-7e24-4b4e-a56a-f3d33e853a2b)
+![image](https://github.com/Sunilkumar074/Linux-IPC-Semaphores/assets/152241049/5b5e799d-e489-4aab-bc54-b3d18810fb68)
 
 # RESULT:
 The program is executed successfully.
